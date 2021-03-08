@@ -1,0 +1,1 @@
+Blog strapi frontend y backend
